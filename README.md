@@ -1,6 +1,6 @@
 - 👋 Hello World, I’m @kandelsatish
 - 👀 I’m interested in technology 
-- 🌱 I’m currently learning React native and Big Data
+- 🌱 I’m currently learning React and React Native
 - 📫 How to reach me : LinkedIn-https://www.linkedin.com/in/satish-kandel-00220516b/
 - 👀 
 
